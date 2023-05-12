@@ -8,7 +8,7 @@ Technologies used:
   - SCSS
   - JS ES6
 
-Preview: 
+Preview: https://toljan1.github.io/2048-game/
 
 Execute the following commands to start:
   - Fork the repository
